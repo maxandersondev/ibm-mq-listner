@@ -1,0 +1,10 @@
+servers:
+  mq:
+    host: <host>
+    port: 1515
+    queue-manager: <queue manager>
+    channel: <channel> 
+    queue: <queue name>
+    timeout: 200000
+    username: myUser
+    password: myPassword
